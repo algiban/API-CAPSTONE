@@ -9,3 +9,4 @@ tensorflow
 pillow
 gdown
 gunicorn
+flask-cors
